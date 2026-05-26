@@ -1,0 +1,6 @@
+{
+  "name": "Jireh Roofing",
+  "description": "BBB A+ rated roofing contractor in Mansfield, TX. Free inspections, storm damage, gutters & financing. Serving Dallas–Fort Worth. Call 817-779-1658.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
